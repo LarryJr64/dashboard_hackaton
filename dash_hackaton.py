@@ -11,7 +11,7 @@ import plotly.io as pio
 pio.renderers.default='browser'
 app = dash.Dash(__name__, external_stylesheets = [dbc.themes.CYBORG])
 #app = dash.Dash(__name__, external_stylesheets = [dbc.themes.FLATLY])
-
+server = app.server
 colors = {
     'background': '#000000', 
     'text': '#7FDBFF'
