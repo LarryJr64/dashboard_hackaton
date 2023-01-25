@@ -1,0 +1,140 @@
+,ID_CANDIDAT,UTILITE_INNOVATION,INFORMATION_INNOVATION,INTERET_PARTICIPANT1,INTERET_PARTICIPANT2,SATISFACTION1,SATISFACTION2,NETWORKING1,NETWORKING2,NETWORKING3,NETWORKING4,NETWORKING5,SELF_IMPROVEMENT1,SATISFACTION3,SELF_IMPROVEMENT2,SATISFACTION4,SATISFACTION5,SATISFACTION6,GENRE,Je vis,Je suis.1,Start Date (UTC),Submit Date (UTC),Network ID,AGE,CATEGORIE_PRO,SATISFACTION_GLOBAl
+0,20e16c47d2e631ed3d67a5cb768b7961,5,7,6,3,4,7,2,5,6,2,2,2,5,5,6,5,6,1,à Strasbourg,autre,2016-11-28 09:41:01,2016-11-28 09:44:41,133b0afb84,26-30 ans,26 ans et plus /Pro,13.5
+1,f17779bb37039c14b6a68fed710951c7,8,8,4,3,8,8,8,8,8,8,8,8,8,8,3,8,8,1,à Strasbourg,professionnel de l'industrie,2016-11-28 09:47:53,2016-11-28 09:51:58,537b758514,26-30 ans,26 ans et plus /Pro,20.0
+2,89c1404fb58fbd6a79e5afbde9bd860c,3,3,2,1,1,1,1,3,2,1,1,2,1,2,6,3,2,1,à Strasbourg,hacker,2016-11-28 09:48:25,2016-11-28 09:52:14,537b758514,21-25 ans,15-25 ans/étudiant,4.0
+3,280e96138330e2b25592ca206dcce5f9,8,7,6,7,7,8,7,7,6,8,8,6,7,7,6,7,7,0,aux alentours de Strasbourg,partenaire,2016-11-28 09:49:56,2016-11-28 09:56:54,7423f90059,41-45 ans,26 ans et plus /Pro,18.0
+4,810101edc4e2d54199fc6049b0052711,5,8,4,4,6,5,7,6,1,4,6,1,5,5,7,6,8,1,aux alentours de Strasbourg,autre,2016-11-28 10:05:16,2016-11-28 10:09:17,1603b9fb57,26-30 ans,26 ans et plus /Pro,15.0
+5,ff4eeb7a7cb161229271214d19660537,6,5,4,5,6,7,5,4,6,5,6,5,5,5,4,5,5,1,à Strasbourg,designer,2016-11-28 10:16:44,2016-11-28 10:22:23,d345d2af85,21-25 ans,15-25 ans/étudiant,14.0
+6,bd9f34e88cf06823dd8be2ff9fe1c31c,7,4,5,2,7,7,4,6,7,5,4,1,6,8,2,6,6,1,aux alentours de Strasbourg,hacker,2016-11-28 15:56:50,2016-11-28 16:02:45,86266b23dc,15-20 ans,15-25 ans/étudiant,16.0
+7,306ea73bf2733aceaf3a3848e9ed6cf4,7,7,5,6,6,7,6,8,8,8,6,5,7,8,7,7,7,1,en France,professionnel de l'industrie,2016-11-28 17:38:11,2016-11-28 17:44:00,796463f97d,46-50 ans,26 ans et plus /Pro,17.0
+8,8495b795bff0b4d2a4926f0f53d17e76,6,6,3,1,5,7,7,5,3,3,3,1,6,5,7,5,6,1,aux alentours de Strasbourg,professionnel de l'industrie,2016-11-28 17:47:33,2016-11-28 17:52:53,30c3b82362,31-35 ans,26 ans et plus /Pro,14.5
+9,c4d3be6b42de7c61014cee741e3be1bb,8,6,8,3,8,8,5,7,6,7,7,8,6,7,3,7,7,1,à Strasbourg,autre,2016-11-28 21:12:38,2016-11-28 21:16:32,45b4be597b,15-20 ans,15-25 ans/étudiant,18.0
+10,af6d978dabfe20f3334f14b13034b14a,8,3,4,3,2,4,5,5,6,7,7,6,8,4,2,7,7,1,aux alentours de Strasbourg,professionnel de l'industrie,2016-11-29 06:16:30,2016-11-29 06:21:45,96c4663e96,46-50 ans,26 ans et plus /Pro,14.0
+11,1ab667525c8103d7e170085ffdbf870b,8,6,6,6,8,8,6,7,7,5,7,8,8,8,1,8,8,0,à Strasbourg,professionnel de l'industrie,2016-11-29 07:54:41,2016-11-29 07:58:48,537b758514,41-45 ans,26 ans et plus /Pro,20.0
+12,2f99976abd46c5a194ed898fc27a0d85,2,1,4,4,6,5,3,3,1,3,7,1,5,3,8,2,4,1,à Strasbourg,hacker,2016-11-29 13:49:10,2016-11-29 13:56:50,c97951dea7,21-25 ans,15-25 ans/étudiant,11.0
+13,5ad94a756fd709383b8e4b72ef531ad0,7,7,4,3,7,7,5,7,5,6,7,3,6,6,3,6,7,1,à Strasbourg,hacker,2017-03-24 14:52:37,2017-03-24 15:00:28,0064fca37e,21-25 ans,15-25 ans/étudiant,16.5
+14,4472e71ca8e1c321b593f1022f3f68b4,8,6,7,8,5,8,7,7,5,5,5,6,8,8,5,6,8,1,à Strasbourg,organisateur,2017-04-05 12:11:40,2017-04-05 12:14:57,1d84985d34,41-45 ans,26 ans et plus /Pro,17.5
+15,86e5dedd58dfb4e7c87dcd582e3b2a58,4,3,4,2,3,3,2,4,5,3,3,4,6,5,4,4,6,1,à l'étranger,hacker,2017-04-24 14:33:04,2017-04-24 14:35:06,fc898d847d,26-30 ans,26 ans et plus /Pro,11.0
+16,a54bef16a6d80b9c519b1b80e2e996a0,4,5,2,2,4,6,1,8,8,3,4,3,6,4,1,6,6,1,à Strasbourg,professionnel de santé,2017-04-24 14:36:22,2017-04-24 14:38:50,fc898d847d,41-45 ans,26 ans et plus /Pro,14.0
+17,fca9ceca1ad3ea8b348a3e93aa54bc53,4,1,1,1,5,6,1,8,8,5,6,1,5,3,7,3,5,1,en France,hacker,2017-04-24 14:39:06,2017-04-24 14:43:52,fc898d847d,31-35 ans,26 ans et plus /Pro,12.0
+18,73c39229fc7b6a5632403b14dccb9bf1,8,6,5,3,7,7,8,6,5,8,8,2,8,8,2,8,8,1,à Strasbourg,hacker,2017-04-24 14:46:12,2017-04-24 14:46:53,fc898d847d,26-30 ans,26 ans et plus /Pro,19.0
+19,ad783710d044b4745ee3bdcaa2aa889a,4,3,1,4,1,3,1,3,4,1,1,1,1,6,8,2,1,0,à Strasbourg,bénévole,2017-04-24 14:48:22,2017-04-24 14:51:01,fc898d847d,26-30 ans,26 ans et plus /Pro,4.0
+20,94d3fd8afebec8027b776dd81b9b71eb,8,3,6,6,4,5,3,2,3,1,5,7,4,5,6,8,8,1,à Strasbourg,hacker,2017-04-24 14:50:59,2017-04-24 14:53:32,fc898d847d,15-20 ans,15-25 ans/étudiant,14.5
+21,4aef56c6d361dc9ff414a3af47435ac9,5,6,2,3,4,3,5,5,5,5,5,5,4,5,3,6,5,0,à Strasbourg,consommateur,2017-04-24 14:54:09,2017-04-24 14:56:56,fc898d847d,31-35 ans,26 ans et plus /Pro,11.0
+22,26d3ea2ad30c186a094d8ae70da6b213,5,1,1,3,1,2,5,3,3,5,3,2,3,4,4,4,3,0,à Strasbourg,consommateur,2017-04-24 14:55:27,2017-04-24 14:57:22,fc898d847d,41-45 ans,26 ans et plus /Pro,6.5
+23,cd4fb3b25baa6d48eb0cf45645ccc77e,6,5,5,3,3,5,7,7,7,7,7,6,6,7,1,7,7,1,à Strasbourg,hacker,2017-04-24 14:58:20,2017-04-24 15:00:17,fc898d847d,31-35 ans,26 ans et plus /Pro,14.0
+24,d3d4562023f708b06ea810f841ab9b28,7,5,1,1,6,6,6,8,8,8,8,6,8,8,5,8,8,1,en France,professionnel de santé,2017-04-24 14:59:55,2017-04-24 15:03:29,fc898d847d,36-40 ans,26 ans et plus /Pro,18.0
+25,c5607006cd555cac5a03a0fb2b0b579d,6,6,4,3,7,7,2,6,7,3,4,4,7,6,3,7,6,1,à Strasbourg,hacker,2017-04-25 07:08:57,2017-04-25 07:10:47,fc898d847d,31-35 ans,26 ans et plus /Pro,17.0
+26,eee21ba3992733feb194319f0945a383,5,3,6,3,5,5,7,4,4,2,6,3,7,4,1,7,7,0,à Strasbourg,hacker,2017-04-25 07:10:47,2017-04-25 07:19:07,fc898d847d,21-25 ans,15-25 ans/étudiant,15.5
+27,0214934b44dda28f7cdf98bb22443e3c,7,6,4,3,7,8,7,7,7,6,6,6,4,7,5,6,6,0,à Strasbourg,designer,2017-04-25 07:19:19,2017-04-25 07:21:41,fc898d847d,21-25 ans,15-25 ans/étudiant,15.5
+28,3ea93662cb9e787199f3480f19a8a51f,6,6,5,2,4,6,3,6,6,6,6,1,5,5,6,6,6,1,en Alsace,hacker,2017-04-25 07:21:15,2017-04-25 07:22:10,fc898d847d,41-45 ans,26 ans et plus /Pro,13.5
+29,a46e642f822c20a02051a019a86fde38,7,8,6,2,7,3,6,6,6,6,6,6,7,6,5,6,6,1,à Strasbourg,professionnel de santé,2017-04-25 07:32:50,2017-04-25 07:35:57,fc898d847d,21-25 ans,15-25 ans/étudiant,14.5
+30,9c54e1bf5ed56cd3ce4d4f70bb30c95e,7,6,4,5,5,7,6,7,7,7,7,1,7,6,1,7,7,1,en France,partenaire,2017-04-25 07:36:03,2017-04-25 07:38:20,fc898d847d,36-40 ans,26 ans et plus /Pro,16.5
+31,e0b44a9ab2c67bef7d9dd207535e3d6c,6,7,8,5,6,8,7,7,3,5,6,6,7,8,2,7,7,0,en France,professionnel de santé,2017-04-25 07:38:28,2017-04-25 07:40:45,fc898d847d,26-30 ans,26 ans et plus /Pro,17.5
+32,3a9c7e7e68c9306b6f044ccffa5a90a1,8,3,3,2,4,7,7,5,5,7,3,7,8,7,1,8,8,1,en France,professionnel de santé,2017-04-25 07:40:38,2017-04-25 07:41:22,fc898d847d,41-45 ans,26 ans et plus /Pro,17.5
+33,7b65c25318518cb24d379d9704380cb4,4,7,1,8,5,6,8,8,4,7,7,7,5,8,6,4,4,1,à Strasbourg,hacker,2017-04-25 07:43:19,2017-04-25 07:43:59,fc898d847d,26-30 ans,26 ans et plus /Pro,12.0
+34,7dcb0454e07c11757c170c58a4013756,7,7,7,5,6,6,7,4,7,7,7,3,6,1,1,6,7,1,à Strasbourg,professionnel de santé,2017-04-25 07:44:51,2017-04-25 07:47:50,fc898d847d,21-25 ans,15-25 ans/étudiant,15.5
+35,e05504a6254d3aa3609c76f050c32da9,8,2,5,1,2,6,2,6,2,1,6,1,8,8,2,6,8,1,à Strasbourg,professionnel de l'industrie,2017-04-25 08:21:17,2017-04-25 08:22:51,fc898d847d,41-45 ans,26 ans et plus /Pro,15.0
+36,43ba0f090ce40e5f2f662445fba7948a,6,7,1,1,3,4,8,5,6,8,5,8,7,7,7,8,8,0,à Strasbourg,autre,2017-04-25 08:23:10,2017-04-25 08:34:20,fc898d847d,15-20 ans,15-25 ans/étudiant,15.0
+37,f819f748ca287bf7993a5fe17d7fe66f,6,7,1,6,6,5,8,7,4,7,7,6,8,8,7,5,7,0,à Strasbourg,autre,2017-04-25 08:34:40,2017-04-25 08:35:31,fc898d847d,15-20 ans,15-25 ans/étudiant,15.5
+38,ca5135c63906bbc5f767e539f7b12ed8,7,7,2,2,6,6,6,8,7,5,6,4,8,6,3,7,7,1,à Strasbourg,autre,2017-04-25 08:35:50,2017-04-25 08:38:49,fc898d847d,15-20 ans,15-25 ans/étudiant,17.0
+39,393a23727a90a16ffc029cb55037689c,8,6,1,4,6,6,7,5,7,7,6,5,8,7,1,8,7,0,à Strasbourg,autre,2017-04-25 08:39:17,2017-04-25 08:41:07,fc898d847d,15-20 ans,15-25 ans/étudiant,17.5
+40,7544eadb11083a40409e99ed5c4d34b0,7,6,4,2,6,5,6,5,5,7,4,4,8,5,7,8,8,1,à Strasbourg,designer,2017-04-25 08:40:58,2017-04-25 08:42:30,fc898d847d,21-25 ans,15-25 ans/étudiant,17.5
+41,1c7f5355054dfc1d9f64c73debb042b7,7,4,6,3,5,5,6,5,5,4,3,5,8,6,1,7,7,1,à Strasbourg,hacker,2017-04-25 08:42:52,2017-04-25 08:45:19,fc898d847d,26-30 ans,26 ans et plus /Pro,16.0
+42,b6ab9e7bc3b84583ed3f8d05eab496db,7,7,5,6,6,5,6,5,5,7,8,3,7,7,2,7,7,1,à Strasbourg,hacker,2017-04-25 08:45:07,2017-04-25 08:47:49,fc898d847d,15-20 ans,15-25 ans/étudiant,16.0
+43,2364bef55ccc45928c960ac08e132533,8,6,8,6,1,1,8,6,8,8,8,2,6,7,1,8,8,1,à Strasbourg,professionnel de santé,2017-04-25 08:48:06,2017-04-25 08:49:56,fc898d847d,26-30 ans,26 ans et plus /Pro,12.0
+44,73b743b77f34b830bd271ab7603ecc1b,6,7,5,3,2,7,8,8,8,7,8,5,8,8,1,8,8,1,à Strasbourg,designer,2017-04-25 08:49:28,2017-04-25 08:53:05,fc898d847d,26-30 ans,26 ans et plus /Pro,16.5
+45,55e3938d1e3f97304019cca7ccfb0df5,7,5,6,3,5,6,6,6,8,7,7,2,5,6,2,7,7,1,en France,professionnel de santé,2017-04-25 12:11:21,2017-04-25 12:12:23,fc898d847d,26-30 ans,26 ans et plus /Pro,15.0
+46,c748ecaf5ed9596ea70e5a3d35882747,8,2,8,5,7,7,4,6,4,5,4,1,7,8,3,4,4,1,à Strasbourg,hacker,2017-04-25 12:13:37,2017-04-25 12:15:37,fc898d847d,21-25 ans,15-25 ans/étudiant,14.5
+47,368dafc1edd164b56e35ae7888d93bd4,8,7,5,2,7,7,6,6,6,7,7,5,7,7,4,7,7,1,en France,designer,2017-04-25 12:15:00,2017-04-25 12:17:24,fc898d847d,21-25 ans,15-25 ans/étudiant,17.5
+48,ba556071f05652ddc31e3b9b293d3560,6,8,7,8,6,8,3,8,8,8,5,8,7,5,5,4,5,1,en France,professionnel de santé,2017-04-25 12:17:37,2017-04-25 12:19:17,fc898d847d,31-35 ans,26 ans et plus /Pro,15.0
+49,ab28e86bd5389e857c66f43f30530c15,6,7,3,1,4,4,2,2,2,5,4,1,6,7,1,6,6,1,à l'étranger,hacker,2017-04-25 12:18:29,2017-04-25 12:21:27,fc898d847d,15-20 ans,15-25 ans/étudiant,13.0
+50,0580c731369825a8fd19b6c789a57c09,6,5,5,3,6,3,8,8,7,7,8,8,8,8,1,7,7,1,à Strasbourg,hacker,2017-04-25 12:20:51,2017-04-25 12:22:24,fc898d847d,21-25 ans,15-25 ans/étudiant,15.5
+51,de2b336cb354d4002dbf7db94b630ba8,7,3,4,4,6,6,7,6,6,6,6,4,5,6,2,6,6,1,en Alsace,hacker,2017-04-25 12:23:34,2017-04-25 12:25:08,fc898d847d,15-20 ans,15-25 ans/étudiant,14.5
+52,fdf8c51552e355aea4eeddba7ffcbb04,8,6,2,3,5,6,3,6,6,6,6,1,6,4,2,7,7,0,à Strasbourg,professionnel de santé,2017-04-25 12:25:14,2017-04-25 12:27:33,fc898d847d,26-30 ans,26 ans et plus /Pro,15.5
+53,c3b49f8ff673cd8359e1348b76dfde22,2,7,2,2,8,8,7,6,6,4,4,4,8,6,6,5,7,1,aux alentours de Strasbourg,hacker,2017-04-25 12:28:15,2017-04-25 12:29:08,fc898d847d,31-35 ans,26 ans et plus /Pro,18.0
+54,c60bee98b7cb1bb1de74b69dcb312721,4,5,2,4,4,4,5,4,4,6,3,2,4,4,6,4,4,1,à Strasbourg,hacker,2017-04-25 12:31:03,2017-04-25 12:32:07,fc898d847d,31-35 ans,26 ans et plus /Pro,10.0
+55,5aab24268c4f576eb91834287c870693,7,6,5,1,6,5,4,5,6,6,5,1,6,5,1,7,7,1,aux alentours de Strasbourg,hacker,2017-04-25 12:31:39,2017-04-25 12:35:15,fc898d847d,31-35 ans,26 ans et plus /Pro,15.5
+56,d3aef74a5bd208255c23b7f5199e19f6,6,8,3,4,6,7,6,8,8,6,6,1,8,6,1,8,8,1,à Strasbourg,hacker,2017-04-25 12:35:36,2017-04-25 12:37:53,fc898d847d,41-45 ans,26 ans et plus /Pro,18.5
+57,628d096987b37488bcbcc1610f89bae0,1,5,5,1,3,7,8,8,5,8,8,5,8,5,8,3,8,0,en France,designer,2017-04-25 12:37:46,2017-04-25 12:39:47,fc898d847d,31-35 ans,26 ans et plus /Pro,14.5
+58,0d93000e08e38b754427d90aba3278db,7,7,2,2,6,6,6,7,5,7,4,3,8,6,3,6,6,1,à Strasbourg,professionnel de santé,2017-04-25 12:42:01,2017-04-25 12:43:40,fc898d847d,21-25 ans,15-25 ans/étudiant,16.0
+59,5001c58299a2e1cad4632691e0e2a291,8,8,6,2,6,4,8,8,8,8,6,6,8,6,1,8,8,0,à Strasbourg,professionnel de santé,2017-04-25 12:45:01,2017-04-25 12:46:34,fc898d847d,31-35 ans,26 ans et plus /Pro,17.0
+60,ba20a4b00ba9b117a19abfd8dfd6d9e4,6,5,8,3,7,8,6,8,8,3,3,8,8,8,7,6,6,0,en France,professionnel de santé,2017-04-25 12:46:44,2017-04-25 12:49:23,fc898d847d,31-35 ans,26 ans et plus /Pro,17.5
+61,5bd44b87904c96b842d32250b89f149f,5,7,6,7,6,6,7,8,8,7,6,5,5,6,3,7,6,1,à Strasbourg,professionnel de santé,2017-04-25 12:49:38,2017-04-25 12:51:23,fc898d847d,21-25 ans,15-25 ans/étudiant,15.0
+62,c1aa1eb66998ae5ce13b603abdafb629,6,7,2,1,2,1,4,5,6,7,3,1,2,1,2,6,6,0,en France,professionnel de santé,2017-04-25 12:50:50,2017-04-25 12:53:05,fc898d847d,26-30 ans,26 ans et plus /Pro,8.5
+63,b7f7e8ca91db4d38a5fa973013a50176,6,5,5,2,3,4,4,5,4,4,3,1,5,4,2,5,4,0,à Strasbourg,hacker,2017-04-25 12:53:10,2017-04-25 12:54:38,fc898d847d,21-25 ans,15-25 ans/étudiant,10.5
+64,f8491108a3e0727f39963c886e6dfcbc,6,6,1,1,5,4,4,4,4,7,4,1,5,5,5,5,5,1,à Strasbourg,professionnel de santé,2017-04-25 12:55:51,2017-04-25 13:00:37,fc898d847d,51-55 ans,26 ans et plus /Pro,12.0
+65,45a9e13139dcb324452b517f93bb05dd,5,4,3,2,3,6,4,4,4,4,4,5,4,4,4,4,2,1,à Strasbourg,hacker,2017-04-25 13:00:14,2017-04-25 13:00:56,fc898d847d,21-25 ans,15-25 ans/étudiant,9.5
+66,fdd60d74172fd893cf6e43438d6df524,6,7,7,5,7,6,7,7,6,6,6,6,7,6,3,7,6,1,en France,designer,2017-04-25 13:02:17,2017-04-25 13:02:56,fc898d847d,26-30 ans,26 ans et plus /Pro,16.5
+67,58d640c7432065a88823569288c1982a,8,7,8,6,7,8,8,8,7,7,8,7,8,7,2,8,8,1,à Strasbourg,hacker,2017-04-25 13:04:15,2017-04-25 13:05:12,fc898d847d,15-20 ans,15-25 ans/étudiant,19.5
+68,b6aab62fa9f4119d79ccd1197e492e96,3,5,2,2,6,5,5,7,7,7,6,6,7,7,1,7,6,1,à Strasbourg,hacker,2017-04-25 13:09:46,2017-04-25 13:11:34,fc898d847d,41-45 ans,26 ans et plus /Pro,15.5
+69,bd81b39a2327b60ddeada73436ae85d0,6,7,2,1,6,5,7,4,4,6,4,2,8,5,2,5,7,1,en France,hacker,2017-04-25 13:13:44,2017-04-25 13:15:12,fc898d847d,21-25 ans,15-25 ans/étudiant,15.5
+70,d06dfdf07eb43bcf71963dbdc27b0a17,7,6,7,8,7,7,7,6,7,7,7,6,7,6,1,6,7,0,à Strasbourg,bénévole,2017-04-25 13:16:30,2017-04-25 13:19:25,fc898d847d,21-25 ans,15-25 ans/étudiant,17.0
+71,2e15e71d683f2a5b7fd41bf1372b8149,5,4,6,6,8,8,4,7,6,6,5,2,7,8,4,7,7,1,en France,designer,2017-04-25 13:19:58,2017-04-25 13:22:00,fc898d847d,26-30 ans,26 ans et plus /Pro,18.5
+72,7c546bf75ccc7cd67d95fbedc51536c5,7,6,6,6,4,5,7,6,6,6,6,6,7,7,2,8,8,0,à Strasbourg,bénévole,2017-04-25 13:23:17,2017-04-25 13:24:36,fc898d847d,21-25 ans,15-25 ans/étudiant,16.0
+73,67fbe57fc8de9c0a9d2014fbd43b3b03,3,3,2,3,3,5,5,5,5,5,5,5,5,5,5,5,5,1,à Strasbourg,consommateur,2017-04-25 13:25:58,2017-04-25 13:27:06,fc898d847d,31-35 ans,26 ans et plus /Pro,11.5
+74,d07fd65c157d5c74a1c307d0a3a0ce83,5,5,3,2,4,3,4,4,4,3,3,3,5,4,1,4,4,1,à Strasbourg,professionnel de l'industrie,2017-04-25 13:26:30,2017-04-25 13:28:47,fc898d847d,31-35 ans,26 ans et plus /Pro,10.0
+75,1e1090be0b377aef1bf89300abee512c,8,7,5,6,6,5,6,7,7,7,5,6,8,7,1,7,7,1,à Strasbourg,consommateur,2017-04-25 13:29:58,2017-04-25 13:31:32,fc898d847d,26-30 ans,26 ans et plus /Pro,16.5
+76,35deacfa8c0756781addb72929bf8068,7,6,5,3,6,6,6,5,6,5,5,6,6,5,4,5,5,1,à Strasbourg,autre,2017-04-25 13:32:27,2017-04-25 13:33:12,fc898d847d,15-20 ans,15-25 ans/étudiant,14.0
+77,a7088a1fe36e2f41a65dca5aa54d9db2,5,6,3,2,6,7,6,6,5,4,3,2,6,6,2,7,5,1,aux alentours de Strasbourg,hacker,2017-04-25 13:32:49,2017-04-25 13:35:11,fc898d847d,26-30 ans,26 ans et plus /Pro,15.5
+78,2ffa39f8cd09aea4584add4f2beec09e,6,6,7,7,3,4,7,8,8,8,7,6,6,6,1,8,8,0,à Strasbourg,organisateur,2017-04-25 13:37:11,2017-04-25 13:38:59,fc898d847d,36-40 ans,26 ans et plus /Pro,14.5
+79,e8225bb9423e19f4b2d10d7fd3a0f9b1,5,6,3,4,5,6,5,6,6,4,5,5,6,7,6,6,7,1,à Strasbourg,coach,2017-04-25 13:40:14,2017-04-25 13:40:25,fc898d847d,41-45 ans,26 ans et plus /Pro,15.0
+80,71389144d06a35cbb7246f2e301619b5,8,7,7,6,7,7,8,6,7,1,7,6,7,7,1,1,1,1,à Strasbourg,bénévole,2017-04-25 13:40:37,2017-04-25 13:43:43,fc898d847d,21-25 ans,15-25 ans/étudiant,11.5
+81,74ac8cf0a0630bf1125b5de000c83d77,8,5,5,3,7,4,2,4,6,4,6,1,8,6,3,6,8,1,aux alentours de Strasbourg,bénévole,2017-04-25 13:43:12,2017-04-25 13:46:05,fc898d847d,15-20 ans,15-25 ans/étudiant,16.5
+82,b45e8b3bafd707dd9e221d0a8c782139,7,6,7,7,7,8,7,8,8,5,7,6,8,8,5,6,8,1,à Strasbourg,hacker,2017-04-25 13:45:32,2017-04-25 13:48:17,fc898d847d,21-25 ans,15-25 ans/étudiant,18.5
+83,e7c6d97b5702db15e5906c534c7b98c8,7,5,3,5,5,5,5,5,5,5,6,3,6,5,3,6,6,1,aux alentours de Strasbourg,autre,2017-04-25 13:48:44,2017-04-25 13:50:18,fc898d847d,21-25 ans,15-25 ans/étudiant,14.0
+84,d3a0d6a8317e8913afa1a64d093825ce,7,8,4,2,5,6,7,6,5,5,4,2,8,8,2,8,6,1,à Strasbourg,designer,2017-04-25 13:52:13,2017-04-25 14:01:34,fc898d847d,26-30 ans,26 ans et plus /Pro,16.5
+85,51c5b6aa2b25e8239a6ebeb67ef7ec83,7,5,2,6,7,7,6,7,7,6,7,6,7,7,1,8,8,0,en France,professionnel de l'industrie,2017-04-25 14:46:49,2017-04-25 14:49:16,fc898d847d,36-40 ans,26 ans et plus /Pro,18.5
+86,0320947fc39b71c141105ea0b340ebdd,6,4,2,5,6,3,5,7,3,7,8,5,8,8,1,8,8,1,à Strasbourg,consommateur,2017-04-25 14:49:11,2017-04-25 14:52:19,fc898d847d,26-30 ans,26 ans et plus /Pro,16.5
+87,e43735357f9d91d953cedca389d91ca7,7,4,4,3,6,6,4,7,6,7,6,6,6,6,6,7,7,1,en Alsace,hacker,2017-04-25 14:51:31,2017-04-25 14:54:59,fc898d847d,21-25 ans,15-25 ans/étudiant,16.0
+88,ca2664de7ac2dc9a06c68dbddc9e8a39,7,6,4,4,3,8,6,6,2,6,5,6,7,7,2,6,7,1,en France,hacker,2017-04-25 14:54:57,2017-04-25 14:57:04,fc898d847d,21-25 ans,15-25 ans/étudiant,15.5
+89,4219da3bb5a3e5e17fbe3e9098402d3e,8,3,5,7,8,7,5,8,7,7,6,1,8,8,1,3,8,0,à Strasbourg,hacker,2017-04-25 14:56:27,2017-04-25 14:59:52,fc898d847d,21-25 ans,15-25 ans/étudiant,17.0
+90,3ab3a687fe1ecb41ff86e497b307d5f6,7,5,2,5,4,3,2,6,5,4,2,5,5,5,2,6,6,1,en France,autre,2017-04-25 14:59:45,2017-04-25 15:01:23,fc898d847d,36-40 ans,26 ans et plus /Pro,12.0
+91,0f0f69c5d74d3465d74c9b0cbe203d73,6,4,7,6,4,5,7,7,7,6,7,2,5,4,2,5,7,0,à Strasbourg,professionnel de l'industrie,2017-04-25 15:01:34,2017-04-25 15:03:21,fc898d847d,26-30 ans,26 ans et plus /Pro,13.0
+92,21bf3f34eee132b5d4e8012c0e6bf5c1,5,5,5,5,5,5,8,6,6,6,6,6,6,6,2,7,8,0,à Strasbourg,autre,2017-04-25 15:03:32,2017-04-25 15:05:11,fc898d847d,26-30 ans,26 ans et plus /Pro,15.5
+93,ba5a01b0258f33c3a49b041040ab1ece,6,6,2,4,6,7,8,6,5,6,6,4,5,7,2,6,6,0,à Strasbourg,designer,2017-04-25 15:05:23,2017-04-25 15:07:59,fc898d847d,21-25 ans,15-25 ans/étudiant,15.0
+94,4dd65d96bab3dd4b9fc17669051835e0,5,3,2,1,5,7,4,5,2,2,1,1,4,2,4,5,6,1,en France,professionnel de santé,2017-04-25 15:08:13,2017-04-25 15:10:11,fc898d847d,36-40 ans,26 ans et plus /Pro,13.5
+95,0e1525d0f4a3db20eac1d941b7c4e3f3,3,6,5,2,5,6,2,5,4,4,5,5,5,5,3,4,7,1,en France,professionnel de santé,2017-04-25 15:10:24,2017-04-25 15:12:41,fc898d847d,31-35 ans,26 ans et plus /Pro,13.5
+96,47db0a5793be7eb9c29a3d26b8e95be1,4,3,5,1,7,7,3,5,6,4,4,1,7,6,5,4,6,1,à Strasbourg,hacker,2017-04-25 15:12:51,2017-04-25 15:20:29,fc898d847d,21-25 ans,15-25 ans/étudiant,15.5
+97,77a6bc2bfb47e701344f17e681a9448a,7,8,1,2,5,7,7,4,6,1,7,6,8,8,1,8,8,0,aux alentours de Strasbourg,autre,2017-04-25 15:20:43,2017-04-25 15:23:40,fc898d847d,15-20 ans,15-25 ans/étudiant,18.0
+98,247b66645b744c85b6260d17ee21a385,8,6,3,2,6,6,7,8,6,6,7,3,8,6,2,7,8,0,à Strasbourg,organisateur,2017-04-26 07:58:44,2017-04-26 08:00:50,11bd8c1f38,36-40 ans,26 ans et plus /Pro,17.5
+99,67d3cb8f8908b6f38b2476a11622f00f,8,4,4,4,6,6,5,4,4,5,6,4,6,6,2,6,6,1,en France,coach,2017-04-26 08:01:27,2017-04-26 08:03:44,11bd8c1f38,36-40 ans,26 ans et plus /Pro,15.0
+100,c986daaf5e730f26f321eb260e87b01e,7,5,1,1,6,6,7,7,8,5,7,5,7,7,6,5,5,1,en France,professionnel de santé,2017-04-26 08:04:03,2017-04-26 08:06:02,11bd8c1f38,36-40 ans,26 ans et plus /Pro,14.5
+101,1f80d3db161ef42a07ff30882a454368,5,5,5,2,6,3,1,5,2,1,1,1,6,5,7,4,7,1,à Strasbourg,partenaire,2017-04-26 08:06:16,2017-04-26 08:18:27,11bd8c1f38,26-30 ans,26 ans et plus /Pro,13.0
+102,364827b4bf3ac89e0faa537deec007d2,6,7,8,3,6,5,8,7,8,8,6,2,8,6,7,5,7,1,à Strasbourg,partenaire,2017-04-26 08:18:42,2017-04-26 08:22:16,11bd8c1f38,26-30 ans,26 ans et plus /Pro,15.5
+103,bfc3f2beda0cdc8ec312ae5e25d8bb8b,7,5,4,2,6,4,6,7,5,3,1,1,8,6,7,7,7,1,à Strasbourg,hacker,2017-04-26 08:22:56,2017-04-26 08:25:05,11bd8c1f38,26-30 ans,26 ans et plus /Pro,16.0
+104,74c8708eb9c389af0edddc0f1254963f,7,8,1,1,8,6,7,8,6,8,6,7,8,8,1,7,7,1,en France,professionnel de santé,2017-04-26 08:25:28,2017-04-26 08:27:36,11bd8c1f38,51-55 ans,26 ans et plus /Pro,18.0
+105,3f53f01bea265dc895823fcc74413c2c,4,1,2,2,6,7,6,2,2,6,7,4,8,5,2,6,6,1,en France,hacker,2017-04-26 08:27:49,2017-04-26 08:29:59,11bd8c1f38,26-30 ans,26 ans et plus /Pro,16.5
+106,a1164aea232c129c502a801e2165023f,7,7,5,6,5,5,8,6,6,8,8,8,8,8,6,6,8,0,à Strasbourg,organisateur,2017-04-26 08:30:17,2017-04-26 08:31:58,11bd8c1f38,31-35 ans,26 ans et plus /Pro,16.0
+107,488cc32bf0fd330e4050cfb2f9110052,8,8,8,4,8,8,1,8,8,4,8,6,8,8,4,8,8,0,à Strasbourg,professionnel de santé,2017-04-26 08:32:10,2017-04-26 08:34:28,11bd8c1f38,31-35 ans,26 ans et plus /Pro,20.0
+108,fe881c8f270711498a101b507a5e98dc,7,6,4,2,6,7,4,7,6,8,6,3,5,3,2,7,7,0,à Strasbourg,consommateur,2017-04-26 08:35:33,2017-04-26 08:41:00,11bd8c1f38,51-55 ans,26 ans et plus /Pro,16.0
+109,d79df3459ab4989ae2f4a3813b5582a2,7,5,3,2,5,8,7,7,8,7,1,5,8,8,1,8,8,1,en France,partenaire,2017-04-26 08:41:10,2017-04-26 08:43:10,11bd8c1f38,41-45 ans,26 ans et plus /Pro,18.5
+110,aa24320fc7669db667e4f8ac419b37ff,7,6,4,2,7,8,7,5,5,8,8,3,7,8,1,6,7,0,en Alsace,coach,2017-04-26 08:43:28,2017-04-26 08:45:16,11bd8c1f38,26-30 ans,26 ans et plus /Pro,17.5
+111,6d3713d0a1e223a9849e2aac2d98bbbc,7,5,6,4,7,5,7,7,6,6,5,5,7,6,1,7,7,1,en France,coach,2017-04-26 08:45:28,2017-04-26 08:47:23,11bd8c1f38,31-35 ans,26 ans et plus /Pro,16.5
+112,705c4a300e66210426c61ce115db62b3,6,6,5,6,6,6,7,8,7,8,6,5,7,7,6,6,7,0,en France,coach,2017-04-26 08:47:38,2017-04-26 08:49:46,11bd8c1f38,31-35 ans,26 ans et plus /Pro,16.0
+113,bc0d37378587a8bbfcba09e145d15da4,6,7,4,6,6,7,8,7,4,4,5,7,7,6,4,7,6,0,à Strasbourg,coach,2017-04-26 08:49:59,2017-04-26 08:51:56,11bd8c1f38,21-25 ans,15-25 ans/étudiant,16.5
+114,c2bc8ca9634d1b169d9fc2d826f9d6e8,8,6,3,4,7,8,7,6,7,6,7,3,8,8,2,8,8,0,à Strasbourg,professionnel de l'industrie,2017-04-26 08:52:19,2017-04-26 08:54:06,11bd8c1f38,26-30 ans,26 ans et plus /Pro,19.5
+115,cf313924c9597935c21561dc693b1b82,4,5,3,1,5,6,7,6,6,4,3,2,6,6,4,3,6,1,à Strasbourg,hacker,2017-04-26 08:54:21,2017-04-26 08:56:41,11bd8c1f38,26-30 ans,26 ans et plus /Pro,13.0
+116,e7f4f261fee8777b0c2438885bd5ba48,7,7,2,1,6,2,5,8,4,1,1,1,6,4,1,7,8,0,à Strasbourg,designer,2017-04-26 08:56:59,2017-04-26 09:04:25,11bd8c1f38,21-25 ans,15-25 ans/étudiant,14.5
+117,e4a39db06d701c3c24153310cfc28bfc,6,3,1,4,1,4,8,8,4,6,4,1,3,4,1,4,6,1,en France,professionnel de santé,2017-04-26 09:04:40,2017-04-26 09:06:35,11bd8c1f38,26-30 ans,26 ans et plus /Pro,9.0
+118,f931ec0a555acc988f2d71d98f2c969e,5,2,3,2,6,6,4,4,3,4,4,1,6,6,3,4,6,1,à Strasbourg,hacker,2017-04-26 09:07:09,2017-04-26 09:09:05,11bd8c1f38,15-20 ans,15-25 ans/étudiant,14.0
+119,ef097b8ef47543edc94f43e6f11450c4,8,8,4,3,8,6,2,8,8,8,8,6,8,8,5,5,6,0,à Strasbourg,hacker,2017-04-26 09:09:25,2017-04-26 09:11:06,11bd8c1f38,15-20 ans,15-25 ans/étudiant,16.5
+120,fef969fd2a744627618a6820fff66dac,7,5,6,2,5,7,7,4,4,4,4,6,7,8,1,6,7,1,à Strasbourg,hacker,2017-04-26 09:11:29,2017-04-26 09:14:01,11bd8c1f38,21-25 ans,15-25 ans/étudiant,16.0
+121,3a9d159224cf85ebcce32fb61419aa69,6,8,3,1,6,6,7,7,6,8,6,3,7,4,3,7,7,1,à Strasbourg,professionnel de santé,2017-04-26 09:14:26,2017-04-26 09:18:21,11bd8c1f38,31-35 ans,26 ans et plus /Pro,16.5
+122,2b030cf59f92c2bdf606f7315d47dd40,6,6,1,1,5,8,4,5,5,3,3,7,8,8,1,7,7,1,à Strasbourg,designer,2017-04-26 09:18:44,2017-04-26 09:20:31,11bd8c1f38,21-25 ans,15-25 ans/étudiant,17.5
+123,8e8ccb5f690f6821472c2325d385dca7,8,8,5,1,6,7,8,7,5,5,5,8,7,7,2,7,7,1,en France,coach,2017-04-26 09:21:10,2017-04-26 09:23:06,11bd8c1f38,31-35 ans,26 ans et plus /Pro,17.0
+124,def2385c31b40b0f9bf0817f8c54624c,4,4,6,2,5,4,5,5,6,4,3,3,6,5,6,6,7,1,en France,hacker,2017-04-26 09:23:20,2017-04-26 09:25:31,11bd8c1f38,26-30 ans,26 ans et plus /Pro,14.0
+125,efbf4a079dc7122f2ac901070cb30886,7,6,1,2,4,4,6,5,3,1,4,4,6,5,1,7,6,1,en France,coach,2017-04-26 09:25:53,2017-04-26 09:28:11,11bd8c1f38,36-40 ans,26 ans et plus /Pro,13.5
+126,656fdc6239695b56595d9c78a46b9b85,4,5,5,4,6,7,7,7,6,7,7,7,7,8,2,6,8,0,en France,professionnel de santé,2017-04-26 09:28:23,2017-04-26 09:30:04,11bd8c1f38,26-30 ans,26 ans et plus /Pro,17.0
+127,171c32d98d5dea0301ff5281a264497a,5,8,2,2,7,7,8,8,2,8,8,1,8,7,4,3,7,1,en France,partenaire,2017-04-26 16:13:03,2017-04-26 16:18:09,6bdb914ba2,46-50 ans,26 ans et plus /Pro,16.0
+128,5eeb2f2e9687cf5f0e1967b441e5215a,7,5,3,1,6,7,4,6,5,3,2,1,8,7,4,6,8,1,aux alentours de Strasbourg,autre,2017-04-27 12:24:27,2017-04-27 12:32:26,56d1a67a16,26-30 ans,26 ans et plus /Pro,17.5
+129,f791a0f366f127b5fe4fa4b752376e3e,5,4,1,1,1,1,1,3,2,1,1,1,5,5,6,3,4,0,à Strasbourg,autre,2017-04-27 12:31:50,2017-04-27 12:38:52,2001:660:4,26-30 ans,26 ans et plus /Pro,7.0
+130,0c7e0775b846f7492396fba0671a5200,6,7,5,3,6,7,6,5,4,5,5,6,7,7,5,6,5,1,à Strasbourg,autre,2017-04-27 12:48:31,2017-04-27 12:56:24,085013a2fc,26-30 ans,26 ans et plus /Pro,15.5
+131,048adc0434c8b2e9220fe5d89f3d84c8,7,8,6,8,5,8,4,7,5,6,7,1,7,6,2,7,7,1,en France,partenaire,2017-04-27 14:46:41,2017-04-27 14:56:25,6bdb914ba2,36-40 ans,26 ans et plus /Pro,17.0
+132,faf07927f0a1de25380f5f8fcaf7908f,5,4,4,3,5,5,6,4,6,6,4,4,5,5,7,4,6,0,à Strasbourg,autre,2017-04-27 15:02:15,2017-04-27 15:06:08,bc9d3246a3,26-30 ans,26 ans et plus /Pro,12.5
+133,4aa7a9ead8f6281a8e41245776511e93,7,6,4,2,5,5,5,6,6,4,4,1,6,7,4,5,6,1,à Strasbourg,consommateur,2017-04-27 16:01:08,2017-04-27 16:04:41,2001:660:4,26-30 ans,26 ans et plus /Pro,13.5
+134,0f8e7b90608855a30d4754af7c65c6bb,5,5,6,4,1,4,6,4,1,4,1,1,4,5,3,6,6,1,aux alentours de Strasbourg,autre,2017-04-28 13:51:36,2017-04-28 13:55:56,0e87204d64,26-30 ans,26 ans et plus /Pro,10.5
+135,f45686806b730cccacadd6f6b8e3616a,6,4,7,5,6,6,7,6,6,3,5,3,6,7,6,6,6,0,à Strasbourg,autre,2017-04-27 12:18:23,2017-04-28 15:48:48,0064fca37e,26-30 ans,26 ans et plus /Pro,15.0
+136,98e30c21e07151fa303f5de1d1564782,6,7,1,4,6,5,1,1,1,1,2,1,7,7,3,6,6,1,à Strasbourg,consommateur,2017-05-04 11:10:33,2017-05-04 11:16:18,2001:660:4,31-35 ans,26 ans et plus /Pro,15.0
+137,3a1f074fed9b734213f794aab803c951,7,7,6,7,6,4,7,6,6,6,6,7,7,7,6,5,6,0,aux alentours de Strasbourg,organisateur,2017-05-09 05:34:51,2017-05-09 05:40:04,4eec5a4a0d,31-35 ans,26 ans et plus /Pro,14.0
+138,136babaf38c51e3ba2663318bb80f695,5,8,5,3,7,7,4,6,5,4,3,5,7,7,3,7,7,1,aux alentours de Strasbourg,autre,2017-05-22 12:59:05,2017-05-22 13:15:01,4a1871ef0b,36-40 ans,26 ans et plus /Pro,17.5
