@@ -19,7 +19,9 @@ colors = {
 }
 
 # on clear un peu et on fait des moyennes
-df = pd.read_csv("D:\Cours_2021-2022\Semestre_3\dashboard_moritz\CLAUDE_DILETTA_ROUSSEAU.csv")
+url = 'https://raw.githubusercontent.com/LarryJr64/dashboard_hackaton/main/CLAUDE_DILETTA_ROUSSEAU.csv'
+df = pd.read_csv(url, sep = ',')
+# df = pd.read_csv("D:\Cours_2021-2022\Semestre_3\dashboard_moritz\CLAUDE_DILETTA_ROUSSEAU.csv")
 df['INNOVATION']= (df['UTILITE_INNOVATION'] + df['INFORMATION_INNOVATION'])/2
 df['INTERET_PARTICIPANT'] = (df['INTERET_PARTICIPANT1'] + df['INTERET_PARTICIPANT2'])/2
 df['NETWORKING']= (df['NETWORKING1'] + df['NETWORKING2'] + df['NETWORKING3'] + df['NETWORKING4'] + df['NETWORKING5'])/5
