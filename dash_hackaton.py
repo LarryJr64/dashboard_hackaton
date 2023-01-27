@@ -11,15 +11,14 @@ import plotly.io as pio
 pio.renderers.default='browser'
 app = dash.Dash(__name__, external_stylesheets = [dbc.themes.CYBORG])
 #app = dash.Dash(__name__, external_stylesheets = [dbc.themes.FLATLY])
-server = app.server
+
 colors = {
     'background': '#000000', 
     'text': '#7FDBFF'
 }
 
 # on clear un peu et on fait des moyennes
-url = 'https://raw.githubusercontent.com/LarryJr64/dashboard_hackaton/main/CLAUDE_DILETTA_ROUSSEAU.csv'
-df = pd.read_csv(url, sep = ',')
+df = pd.read_csv("D:\Cours_2021-2022\Semestre_3\dashboard_moritz\CLAUDE_DILETTA_ROUSSEAU.csv")
 df['INNOVATION']= (df['UTILITE_INNOVATION'] + df['INFORMATION_INNOVATION'])/2
 df['INTERET_PARTICIPANT'] = (df['INTERET_PARTICIPANT1'] + df['INTERET_PARTICIPANT2'])/2
 df['NETWORKING']= (df['NETWORKING1'] + df['NETWORKING2'] + df['NETWORKING3'] + df['NETWORKING4'] + df['NETWORKING5'])/5
@@ -36,8 +35,27 @@ app.layout = html.Div([
     html.H1("Dashboard Hackaton", style={'text-align': 'center', 'color': '#7FDBFF', 'font-size': 35}),
     html.Br(),
     
-
-
+    html.Div([
+    dcc.RadioItems(
+        id = 'dropdown-to-show_or_hide-element',
+        options=[
+            {'label': 'Show ReadMe', 'value': 'on'},
+            {'label': 'Hide ReadMe', 'value': 'off'}
+        ],
+        value = 'on',
+        inputStyle={"margin-right": "5px", "margin-left": "10px"},
+        labelStyle={'display': 'inline-block'}
+    ),
+    
+        dcc.Textarea(
+        id = 'element-to-hide',
+        value = "Le cadre de notre projet se fait sur la demande de Mme CULLMANN Sabine qui souhaitait avoir une vision d’ensemble sur l’évènement, comprendre quels sont les acteurs des hackathons.L’idée originale était donc de pouvoir trouver le profil des participants en fonction des données récoltées lors d’éditions précédentes (Catégorie d’âge, sexe, provenance etc.) ainsi que de comprendre leurs incitations à participer à ce processus d’innovation et de partage. (Différentes questions basées sur la satisfaction, les incitations, leur projet, leur équipe etc.). Le travail demandé à notre groupe était d’ordre technique, il fallait rendre les données utilisables et permettre à Mme CULLMANN d’avoir un nouvel outil pour ses recherches. La part théorique derrière le projet est un article fourni par madame CULLMANN expliqué ci-dessous. L'article 'La coconstruction de l’innovation durant un hackathon, une approche par la valeur' de Inès Guguen-Gicquel, Sabine Cullmann et Herbert Castéran explore l'analyse de la perception de la valeur par les participants lors des hackathons. Les données viennent d'un sondage rempli par les participants des hackathons précédents et correspondent à un ensemble de question/reponses sur la satisfaction, les caractéristiques et le ressenti des acteurs du hackathon. Notre analyse est décomposée en deux parties. (Graphique à barres et diagrammes circulaires). La première partie permet de mesurer et de remarquer les features du hackathon/questions marquées comme importantes par les participants. La mesure se fait en fonction de leur satisfaction globale vis-à-vis de l'évênement.",
+        style={'width': '100%', 'height': 300},
+        ),
+    ],
+    ),
+    
+        html.Br(),
         html.Div([
             html.Div(id='container_variables'), #1
             
@@ -182,23 +200,16 @@ app.layout = html.Div([
                 {'label' : 'organisateur', 'value' : 'organisateur'},
                 {'label' : 'partenaire', 'value' : 'partenaire'},
                 {'label' : "professionnel de l'industrie", 'value' : "professionnel de l'industrie"},
-                {'label' : 'professionnel de santé ', 'value' : 'professionnel de santé '},
+                {'label' : 'professionnel de santé ', 'value' : 'professionnel de santé'},
                 ],
             value=['organisateur', 'partenaire', "professionnel de l'industrie", 'professionnel de santé', 'autre', 'bénévole', 'coach', 'consommateur', 'designer', 'hacker'],
             multi=True
             ),
         
-        
         html.Br(),
-            # dcc.Graph(id='graphi')
-        # html.Div(className= 'row', children=[
-        #     html.H4("Moyennes"),
-        #     html.Br(),
-        #     px.pie(df, labels=['Femme','Homme'], values = pd.Series(df.index, index=df['GENRE']).groupby(level=0).size().tolist() 
                    
         html.Div(className= 'row', children=[
              html.Div(children=[
-        #         dcc.Graph(px.pie(df, labels=['Oxygen','Hydrogen','Carbon_Dioxide','Nitrogen'], values = [4500,2500,1053,500])),
                  dcc.Graph(id="graphi", style={'display': 'inline-block'}),
                  dcc.Graph(id="grapho", style={'display': 'inline-block'}),
 ]),
@@ -210,17 +221,24 @@ app.layout = html.Div([
              ,])])
 
 
-# dfff = df.copy()
-# lst_cat2 = ['26-30 ans', '36-40 ans']
-# dfff = dfff.sort_values(by='Je suis.1')
-# dfff
-# dfff = dfff[dfff["Je vis"].isin(lst_cat2)]
-# dfff['Je suis.1'].unique().tolist()
-# pd.Series(dfff.index, index=dfff['Je suis.1']).groupby(level=0).size()
-
-print('hello')
 #______________________________________________________________________________________
-# variables dans les graph
+
+
+@app.callback(
+   Output(component_id='element-to-hide', component_property='style'),
+   [Input(component_id='dropdown-to-show_or_hide-element', component_property='value')])
+
+
+def show_hide_element(visibility_state):
+    if visibility_state == 'on':
+        return {'width': '100%', 'height': 300}
+    if visibility_state == 'off':
+        return {'display': 'none'}
+
+
+#______________________________________________________________________________________
+
+
 @app.callback(
     [Output(component_id='container_variables', component_property='children'), #1
      Output(component_id='container_sex', component_property='children'),       #3
@@ -235,13 +253,13 @@ print('hello')
      ]            
 )
 
-#def update_graph(lst_vrbl, lst_sex, lst_cat, slider_note):
+
 def update_graph(lst_qst, lst_sex, lst_cat, slider_note):
 
-    container = "Selectionnez les questions données aux participants" #: {}".format(lst_vrbl)
-    container2 = "Selectionnez le sexe des participants" #+ str(lst_sex)
-    container3 = "Selectionnez les tranches d'âge des participants"  #:{}".format(lst_cat)
-    container4 = "Selectionnez l'intervalle de la note moyenne donnée par le participant" # : {}".format(lst_vrbl)
+    container = "Selectionnez les questions données aux participants" 
+    container2 = "Selectionnez le sexe des participants"
+    container3 = "Selectionnez les tranches d'âge des participants"  
+    container4 = "Selectionnez l'intervalle de la note moyenne donnée par le participant" 
 
     dff = df.copy()
     dff = dff[dff["GENRE"].isin(lst_sex)]
@@ -251,8 +269,14 @@ def update_graph(lst_qst, lst_sex, lst_cat, slider_note):
     
 
     fig = px.bar(dff, x ='SATISFACTION_GLOBAl', y = lst_qst,
+                 labels={
+                     'SATISFACTION_GLOBAl': 'Note moyenne du hackaton donnée par le participant',
+                     'value':'Moyenne des questions',
+                     'variable' : 'Questions choisies'},
                  barmode="group")
     fig.update_layout(
+            title_text="Notes moyennes des questions en fonction de la satifaction globale des participants", title_x =0.45,
+            title_font=dict(size=18),
             plot_bgcolor=colors['background'],
             paper_bgcolor=colors['background'],
             font_color=colors['text']
